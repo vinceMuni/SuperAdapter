@@ -49,5 +49,5 @@ to manage view binding, directly in your activity.
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Support
+<span class="badge-buymeacoffee"><a href="buymeacoff.ee/eslJYdWTA" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-white.svg" alt="Buy Me A Coffee donate button" /></a></span>
 
-buymeacoff.ee/eslJYdWTA
